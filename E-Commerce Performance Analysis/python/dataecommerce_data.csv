@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,product_category,product_name,quantity,unit_price,discount,payment_method,region,customer_age,customer_gender,order_status
+1001,C001,2024-01-05,Electronics,Smartphone X12,1,59999.00,0.05,UPI,South,28,Male,Delivered
+1002,C002,2024-01-08,Fashion,Men's Casual Shirt,2,1299.00,0.00,Card,North,35,Male,Delivered
+1003,C003,2024-01-12,Home & Kitchen,Blender 500W,1,2499.00,0.10,UPI,West,41,Female,Delivered
+1004,C001,2024-02-03,Electronics,Wireless Earbuds,2,1999.00,0.00,Wallet,South,28,Male,Delivered
+1005,C004,2024-02-14,Beauty,Face Serum 30ml,3,899.00,0.15,Card,East,24,Female,Delivered
+1006,C005,2024-02-20,Fashion,Women's Handbag,1,3499.00,0.00,COD,North,31,Female,Delivered
+1007,C006,2024-03-01,Electronics,Smart TV 43 inch,1,27999.00,0.08,Card,West,45,Male,Delivered
+1008,C007,2024-03-15,Home & Kitchen,Coffee Maker,1,3299.00,0.00,UPI,South,38,Female,Delivered
+1009,C002,2024-04-02,Fashion,Running Shoes,1,2999.00,0.10,Wallet,North,35,Male,Delivered
+1010,C008,2024-04-18,Beauty,Perfume 100ml,1,4599.00,0.05,Card,West,29,Female,Cancelled
+1011,C009,2024-05-09,Electronics,Laptop Pro 14,1,74999.00,0.03,UPI,North,33,Male,Delivered
+1012,C010,2024-05-25,Home & Kitchen,Non-stick Cookware Set,1,4999.00,0.12,COD,East,52,Female,Delivered
+1013,C003,2024-06-11,Fashion,Sunglasses UV400,2,1599.00,0.00,UPI,West,41,Female,Delivered
+1014,C001,2024-06-22,Beauty,Hair Dryer 1600W,1,2199.00,0.07,Card,South,28,Male,Delivered
+1015,C005,2024-07-04,Electronics,Power Bank 20000mAh,2,1799.00,0.00,Wallet,North,31,Female,Delivered
